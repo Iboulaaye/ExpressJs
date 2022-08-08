@@ -1,0 +1,20 @@
+.navbar{
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-left: 0vh;
+  }
+
+
+.fnav {
+    margin-left: 0vh;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+#navstyle{
+    font-size: x-large;
+    color: chocolate ;
+    font-weight: 500;
+  }
